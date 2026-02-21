@@ -1,0 +1,4 @@
+customtkinter
+pywin32
+docx2pdf
+packaging
